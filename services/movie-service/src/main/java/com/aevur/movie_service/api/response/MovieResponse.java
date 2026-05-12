@@ -1,4 +1,4 @@
-package com.aevur.movie_service.api.request.response;
+package com.aevur.movie_service.api.response;
 
 import java.util.UUID;
 

@@ -1,6 +1,6 @@
 package com.aevur.movie_service.service;
 
-import com.aevur.movie_service.api.request.response.MovieResponse;
+import com.aevur.movie_service.api.response.MovieResponse;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
